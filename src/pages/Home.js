@@ -61,7 +61,7 @@ const Home = () => {
         <div className='home-details'>
         <h2 className='home-main-title'>Hello I'm</h2>
         <h1 className='home-main-name'>BILAL ABDULLA</h1>
-        <p>And this is my resume</p>
+        <p className='resume-text'>And this is my resume</p>
         </div>
       </main>
       <section className='home-section' id='portfolio'>
