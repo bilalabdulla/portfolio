@@ -264,7 +264,7 @@ const Home = () => {
         <div className='resu-card'> 
               <p className='date'>May 2024 - Present</p>
               <p className='subject'>Software development - Training</p>
-              <p className='content'>Obtained Prolific knowledge about various programming languages Such as React.js, Node.js, Python, Javascript, HTML, CSS and Database management systems such as MongoDB and ProgreSQL</p>
+              <p className='content'>Obtained Prolific knowledge about various programming languages Such as React.js, Node.js, Python, Javascript, HTML, CSS and Database management systems such as MongoDB and PostgreSQL</p>
               <p className='uni'>Vonnue - Wayanad</p>
           </div>
 
@@ -296,7 +296,7 @@ const Home = () => {
         <div className='about-div'>
           <h2 className='about-title'><span>About</span> me</h2>
           <h4 className='about-text-one'>Software developer who is always keen on gaining new knowledge</h4>
-          <p className='about-text-two'>Skilled software developer in coding, testing, and deploying applications. Proficient in multiple programming languages such as Javascipt, Python, React.js and Node.js, with strong expertise in front-end and back-end development also with Database management systems such as MongoDB and ProgreSQL. Adept at solving complex problems, implementing scalable solutions, and collaborating in agile environments. Passionate about continuous learning and driving innovation through technology.</p>
+          <p className='about-text-two'>Skilled software developer in coding, testing, and deploying applications. Proficient in multiple programming languages such as Javascipt, Python, React.js and Node.js, with strong expertise in front-end and back-end development also with Database management systems such as MongoDB and PostgreSQL. Adept at solving complex problems, implementing scalable solutions, and collaborating in agile environments. Passionate about continuous learning and driving innovation through technology.</p>
           <a href="/bilal-abdulla-resume.pdf" className='about-btn' download='bilal-abdulla-resume.pdf'>Download CV</a>
         </div>
       </section>
