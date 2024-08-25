@@ -268,15 +268,16 @@ textarea {
   display: flex;
   width: 70vw;
   margin: 20px auto;
-  gap: 2%;
+  gap: 5%;
   margin-top: 150px;
+  justify-content: center;
 }
 .about-img{
-  width: 48%;
+  width: 35%;
   border-radius: 4px;
 }
 .about-div{
-  width: 48%;
+  width: 55%;
   padding: 20px 40px;
   box-sizing: border-box;
 }
